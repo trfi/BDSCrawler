@@ -1,0 +1,20 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "passwd": "",
+        "dbname": "khotin",
+        "port": 3306
+    },
+    "user": {
+        "remember": true,
+        "username": "admin",
+        "password": "123#"
+    },
+    "setting": {
+        "check_phone": 1000,
+        "check_phone_hcm": 15000,
+        "export_phone": false
+    },
+    "server": "http://truongfiu.pythonanywhere.com"
+}

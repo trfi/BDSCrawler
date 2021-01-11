@@ -1,0 +1,10 @@
+unidecode
+urllib3
+slugify
+beautifulsoup4
+lxml
+requests
+simplejson
+mysqlclient
+PyQt5
+PyQt5-stubs

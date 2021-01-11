@@ -1,0 +1,12 @@
+/build/
+/__pycache__/
+/dist/
+/venv/
+/crawl_log.log
+/error_log.log
+/Test/
+/*.zip
+/text_unidecode*/
+/.idea/
+/New folder/
+/slugify/
